@@ -1,4 +1,4 @@
-# Git Comand To Be Used!.
+# Git Comand To Be Used!
 ## Clone any Repository
 - Copy past this line of code 
 ```{r eval=FALSE}
@@ -7,7 +7,7 @@ git clone <GitHub Repository>
 ## Initialise Git
 - Copy past this line of code
 ```{r eval=FALSE}
-git init 
+git init -b main
 ```
 ## add a file
 - Copy past this line of code
@@ -48,4 +48,19 @@ git remote -v
 - Copy past this line of code
 ```{r eval=FALSE}
 git push -u origin master
+```
+## See Log
+- Copy past this line of code
+```{r eval=FALSE}
+git log
+```
+## Create Another Branch
+- Copy past this line of code
+```{r eval=FALSE}
+git branch update
+```
+## Change Branch
+- Copy past this line of code
+```{r eval=FALSE}
+git checkout <branch name>
 ```
