@@ -1,10 +1,10 @@
-# IITG-CSE-2024
+# OPOC
 
 <p align="center">
-<img src="./assets/IIT-Goa-Logo-White.png" width="200"/>
+<img src="https://github.com/srajan-kiyotaka/OPOC-First-Git-GitHub-Session/blob/update/OPOC%20banner.png?raw=true" width="900"/>
 </p>
 
-## **List of all GitHub handles of the class of 2024**
+## **List of all GitHub handles of the Members of OPOC!**
 
 <br>
 
