@@ -1,7 +1,7 @@
 # OPOC
 
 <p align="center">
-<img src="https://github.com/srajan-kiyotaka/OPOC-First-Git-GitHub-Session/blob/update/OPOC%20banner.png?raw=true" width="800"/>
+<img src="https://github.com/srajan-kiyotaka/OPOC-First-Git-GitHub-Session/blob/update/OPOC%20banner.png?raw=true" width="900"/>
 </p>
 
 ## **List of all GitHub handles of the Members of OPOC!**
